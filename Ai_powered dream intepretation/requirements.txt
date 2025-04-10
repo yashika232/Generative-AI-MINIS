@@ -1,0 +1,13 @@
+Technologies
+Python
+
+Google Gemini API
+
+Pandas
+
+TextBlob
+
+Matplotlib
+
+Google Colab
+
